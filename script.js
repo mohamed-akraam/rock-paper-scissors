@@ -15,6 +15,7 @@ let score = 0;
 
 // the game whole logic
 
+
 function playRound(playerSelection, computerSelection) {
 
     

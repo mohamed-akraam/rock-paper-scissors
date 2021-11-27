@@ -11,3 +11,4 @@ the problem was a capital first letter!!
 i read a couple of times that javaScript is case-sensitive but experiencing it myself is something else..
 
 i'll for sure retrun to this project and re-do it when i level up :)
+
