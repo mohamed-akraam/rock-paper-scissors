@@ -18,7 +18,7 @@ let computerScore = 0
 function playRound(playerSelection, computerSelection) {
 
     if (playerScore === 5) return content.textContent = 'YOU WIN THE GAME!!!!';
-    if (computerScore === 5) return content.textContent = 'FOR REAL! YOU LET A ROBOT BEATS YOU!! YOU LOOOSE!!!'
+    if (computerScore === 5) return content.textContent = 'FOR REAL! YOU LET A ROBOT BEAT YOU!! YOU LOOOSE!!!'
 
     else if (playerSelection == computerSelection) {
 
